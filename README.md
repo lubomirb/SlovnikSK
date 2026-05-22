@@ -1,1 +1,1 @@
-# SlovnikSK is a Python library for working with the SlovnikSK API, which provides access to a comprehensive dictionary of the Slovak language. The library allows you to easily retrieve definitions, synonyms, antonyms, and other linguistic information for Slovak words.
+# SlovnikSK 
