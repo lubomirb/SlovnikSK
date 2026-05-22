@@ -23,7 +23,7 @@ jobs:
         dotnet-version: 8.0.x
 
     - name: Publish Blazor WASM
-      run: dotnet publish master/ReadSlovnik/ReadSlovnik.csproj -c Release -o build
+      run: dotnet publish ReadSlovnik/master/ReadSlovnik.csproj -c Release -o build
 
     - name: Prepare public folder
       run: |
