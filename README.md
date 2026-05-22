@@ -1,1 +1,1 @@
-# SlovnikSK slovnik 
+# SlovnikSK SK
